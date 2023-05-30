@@ -1,4 +1,4 @@
-# Alteryx-Project--Analyzing-E--Retail-Sales-data-ETL-Reporting-Designing-Workflows-Creating-report.
+# Alteryx-Project--E-Retail-Sales-data Analysis-ETL-Reporting-Designer.
 Alteryx Project- Analyzing E- Retail Sales data, ETL, Reporting, Designing Workflows, Creating report.
 ![Sales_Workflow](https://github.com/Avinashg13/Alteryx-Project--Analyzing-E--Retail-Sales-data-ETL-Reporting-Designing-Workflows-Creating-report./assets/110937009/ebdb78d4-a485-401e-9345-62b1cb5b5865)
 
